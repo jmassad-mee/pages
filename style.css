@@ -1,0 +1,34 @@
+.field-field-subhead {
+    font-style: italic;
+    font-size: 1.25rem;
+}
+
+.submitted-date {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+    max-width: 870px;
+    margin: 0 auto;
+    background-color: #eaeaea;
+}
+
+p {
+    line-height: 150%;
+}
+
+h3 {
+    margin-top: 2rem;
+    margin-bottom: 0;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+img {
+    display: none;
+}
